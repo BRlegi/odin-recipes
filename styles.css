@@ -1,0 +1,26 @@
+body {
+    background-color: antiquewhite;
+    color: rgb(39, 28, 28);
+    background-image: url("img/paper-beige.jpg")
+}
+
+img {
+    width: 480px;
+    height: auto;
+}
+
+h2,
+h1 {
+    color: rgb(78, 40, 40);
+    font-family: Georgia, 'Times New Roman', Times, sans-serif;
+}
+
+ol,
+ul,
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.recipelist {
+    font-size: 26px;
+}
